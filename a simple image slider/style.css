@@ -1,0 +1,19 @@
+img{
+    border: solid olivedrab 6px;
+    height: 60vh;
+    width: 60vh;
+    border-radius: 10px;
+}
+button{
+    position: relative;
+    top:-30vh;
+    background-color: black;
+    color: aliceblue;
+    font-size: xx-large;
+
+}
+.container{
+
+    position: relative;
+    margin: 10vh;
+}
